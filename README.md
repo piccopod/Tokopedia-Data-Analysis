@@ -1,10 +1,6 @@
 # Promo Efficiency & User Retention at Tokopedia
 ### Beyond Discounts: Reliable Delivery as the Key to User Loyalty
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-Data_Warehouse-4285F4?logo=googlebigquery&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Interactive_Dashboard-4285F4?logo=looker&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **Author:** Bunga Safhira  
 **Date:** November 2026  
