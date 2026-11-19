@@ -142,5 +142,5 @@ Raw data was extracted from Google BigQuery (`datalake_tokped`), cleaned and tra
 ## Links & Contact
 
 * **Author:** Bunga Safhira
-* **LinkedIn:** [[Bunga Safhira]((https://www.linkedin.com/in/bungaswirata/#)))](#)[](https://www.linkedin.com/in/bungaswirata/)](#)
+* **LinkedIn:** [[Bunga Safhira](https://www.linkedin.com/in/bungaswirata)](#)
 * **Interactive Dashboard:** [[Looker Studio — Promo & Retensi](https://datastudio.google.com/u/0/reporting/b736bc66-36f4-4385-ab61-a6973965d87d/page/VpxDG)](#)
